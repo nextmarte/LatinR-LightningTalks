@@ -1,0 +1,45 @@
+---
+title: "Pacotes da linguagem R para análise de pesquisas realizadas com escala Likert"
+documentclass: article
+authors: 
+    - name: Ariel Levy
+      affiliations: 
+        - name: Universidade Federal Fluminense
+    - name: Luciane Ferreira Alcoforado
+      affiliations: 
+        - name: Academia da Força Aérea
+    - name: Orlando Celso Longo
+      affiliations: 
+        - name: Universidade Federal Fluminense
+    - name: Marcus Antonio Cardoso Ramalho
+      affiliations: 
+        - name: Universidade Federal Fluminense
+
+format: pdf
+abstract: "A escala Likert é uma das escalas mais utilizadas em pesquisas sociais e comportamentais para medir atitudes,
+opiniões e percepções dos respondentes. Ela consiste em um conjunto de itens que apresentam afirmações sobre um
+determinado tema e solicitam que os respondentes indiquem o seu grau de concordância ou discordância com cada
+afirmação, usando uma escala de valores numéricos ou verbais. A análise dos dados coletados com a escala Likert requer o
+uso de técnicas estatísticas adequadas para lidar com as características e as limitações dessa escala. A linguagem R oferece
+diversos pacotes que facilitam e otimizam a análise de pesquisas realizadas com escala Likert, permitindo realizar desde
+operações básicas até análises avançadas e visualizações interativas. Nesta apresentação, vamos abordar os principais
+pacotes da linguagem R para análise de pesquisas realizadas com escala Likert, destacando as suas funcionalidades,
+vantagens e desvantagens"
+---
+
+<!---
+ Olá! Sugiro aceitar o trabalho somente se realizarem mudanças maiores. Essas mudanças estão relacionadas principalmente a redefinir o objetivo do trabalho, ou seja, é necessário pensar em como o uso do R permite a análise de pesquisas realizadas com escala Likert. Em outras palavras, como o uso do R pode impulsionar a linha de análise de pesquisas com escala Likert. É necessário também fazer uma proposta metodológica, por exemplo, sugerir quais pacotes são mais apropriados para começar com pesquisas baseadas em escala Likert, quais pacotes são para análise intermediária e quais para análise avançada, isto é, fazer uma classificação dos pacotes em relação aos seus potenciais. Finalmente, a partir da metodologia proposta na sugestão anterior, é necessário expor os desafios que ainda não foram abordados nos pacotes descritos, o que poderia ser uma fonte de desenvolvimento de novos pacotes de R. Muito obrigada! 
+--->
+
+
+## resumo
+
+<!---
+ this is how to justify text in latex
+
+--->
+::: texto
+::: { style="text-align: justify;"}
+
+:::
+:::
