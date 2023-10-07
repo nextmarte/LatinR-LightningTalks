@@ -1,0 +1,9 @@
+---
+format: beamer
+title: "Introduction to R"
+author: "Ariel Levy & Marcus Ramalho"
+date: today
+---
+## Introdução
+## Problema
+## 
